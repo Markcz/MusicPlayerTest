@@ -15,6 +15,62 @@
 		A511A7841CBB466100EB0083 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A511A7821CBB466100EB0083 /* LaunchScreen.storyboard */; };
 		A511A78F1CBB466100EB0083 /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A511A78E1CBB466100EB0083 /* ______Tests.m */; };
 		A511A79A1CBB466100EB0083 /* ______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A511A7991CBB466100EB0083 /* ______UITests.m */; };
+		A511A7A81CBB46EA00EB0083 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A511A7A71CBB46EA00EB0083 /* AVFoundation.framework */; };
+		A511A7AA1CBB46F300EB0083 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A511A7A91CBB46F300EB0083 /* AVKit.framework */; };
+		A531CC4A1CCF14680017908A /* jie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A531CC491CCF14680017908A /* jie.jpg */; };
+		A531CC4D1CCF17060017908A /* ListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A531CC4C1CCF17060017908A /* ListTableViewController.m */; };
+		A531CCB01CCF1D6C0017908A /* Effect48.wav in Resources */ = {isa = PBXBuildFile; fileRef = A531CC7E1CCF1D6C0017908A /* Effect48.wav */; };
+		A531CCB11CCF1D6C0017908A /* Effect49.wav in Resources */ = {isa = PBXBuildFile; fileRef = A531CC7F1CCF1D6C0017908A /* Effect49.wav */; };
+		A531CCB21CCF1D6C0017908A /* Effect50.wav in Resources */ = {isa = PBXBuildFile; fileRef = A531CC801CCF1D6C0017908A /* Effect50.wav */; };
+		A55813AD1CD0B98A00520A82 /* btnPlay.png in Resources */ = {isa = PBXBuildFile; fileRef = A55813AB1CD0B98A00520A82 /* btnPlay.png */; };
+		A55813AE1CD0B98A00520A82 /* btnPause.png in Resources */ = {isa = PBXBuildFile; fileRef = A55813AC1CD0B98A00520A82 /* btnPause.png */; };
+		A5A9E9B41CBC78E700622BE4 /* sliderThumb.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A9E9B31CBC78E700622BE4 /* sliderThumb.png */; };
+		A5E18DF51CE166B90000EB21 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = A5E18DF31CE166B90000EB21 /* next.png */; settings = {ASSET_TAGS = (); }; };
+		A5E18DF61CE166B90000EB21 /* last.png in Resources */ = {isa = PBXBuildFile; fileRef = A5E18DF41CE166B90000EB21 /* last.png */; settings = {ASSET_TAGS = (); }; };
+		A5E18DFF1CE174560000EB21 /* bgp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5E18DFE1CE174560000EB21 /* bgp.jpg */; settings = {ASSET_TAGS = (); }; };
+		A5E18E011CE174940000EB21 /* bglist.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5E18E001CE174940000EB21 /* bglist.jpg */; settings = {ASSET_TAGS = (); }; };
+		A5E18E071CE1787E0000EB21 /* spl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5E18E061CE1787E0000EB21 /* spl.jpg */; settings = {ASSET_TAGS = (); }; };
+		A79262021CD8305A0050CA38 /* thumbImg.png in Resources */ = {isa = PBXBuildFile; fileRef = A79262011CD8305A0050CA38 /* thumbImg.png */; };
+		A79262171CD8480D0050CA38 /* 陈奕迅-浮夸.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262031CD8480D0050CA38 /* 陈奕迅-浮夸.mp3 */; };
+		A79262181CD8480D0050CA38 /* 单色凌,何艺纱-错位节拍.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262041CD8480D0050CA38 /* 单色凌,何艺纱-错位节拍.mp3 */; };
+		A79262191CD8480D0050CA38 /* 格子兮,牙牙乐-时间爱人.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262051CD8480D0050CA38 /* 格子兮,牙牙乐-时间爱人.mp3 */; };
+		A792621A1CD8480D0050CA38 /* 姜宇清-给我一支烟.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262061CD8480D0050CA38 /* 姜宇清-给我一支烟.mp3 */; };
+		A792621B1CD8480D0050CA38 /* 可歆-怎么能够.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262071CD8480D0050CA38 /* 可歆-怎么能够.mp3 */; };
+		A792621C1CD8480D0050CA38 /* 林俊杰-美人鱼.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262081CD8480D0050CA38 /* 林俊杰-美人鱼.mp3 */; };
+		A792621D1CD8480D0050CA38 /* 蒙面哥-一生一世好兄弟.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262091CD8480D0050CA38 /* 蒙面哥-一生一世好兄弟.mp3 */; };
+		A792621E1CD8480D0050CA38 /* 梦然-北京烟火.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620A1CD8480D0050CA38 /* 梦然-北京烟火.mp3 */; };
+		A792621F1CD8480D0050CA38 /* 梦然-假如.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620B1CD8480D0050CA38 /* 梦然-假如.mp3 */; };
+		A79262201CD8480D0050CA38 /* 梦然-没有你陪伴真的好孤单.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620C1CD8480D0050CA38 /* 梦然-没有你陪伴真的好孤单.mp3 */; };
+		A79262211CD8480D0050CA38 /* 少司命-摆渡.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620D1CD8480D0050CA38 /* 少司命-摆渡.mp3 */; };
+		A79262221CD8480D0050CA38 /* 孙子涵-毕业后你不是我的.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620E1CD8480D0050CA38 /* 孙子涵-毕业后你不是我的.mp3 */; };
+		A79262231CD8480D0050CA38 /* 孙子涵-连借口都没有.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A792620F1CD8480D0050CA38 /* 孙子涵-连借口都没有.mp3 */; };
+		A79262241CD8480D0050CA38 /* 孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262101CD8480D0050CA38 /* 孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3 */; };
+		A79262251CD8480D0050CA38 /* 夏天Alex-我依然想你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262111CD8480D0050CA38 /* 夏天Alex-我依然想你.mp3 */; };
+		A79262261CD8480D0050CA38 /* 徐良-听妈妈的话 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262121CD8480D0050CA38 /* 徐良-听妈妈的话 (Live).mp3 */; };
+		A79262271CD8480D0050CA38 /* 徐良,吴昕-星座恋人.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262131CD8480D0050CA38 /* 徐良,吴昕-星座恋人.mp3 */; };
+		A79262281CD8480D0050CA38 /* 许嵩-灰色头像.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262141CD8480D0050CA38 /* 许嵩-灰色头像.mp3 */; };
+		A79262291CD8480D0050CA38 /* 许嵩-星座书上.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262151CD8480D0050CA38 /* 许嵩-星座书上.mp3 */; };
+		A792622A1CD8480D0050CA38 /* 许嵩-有何不可.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A79262161CD8480D0050CA38 /* 许嵩-有何不可.mp3 */; };
+		A79262641CD8578E0050CA38 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262561CD8578E0050CA38 /* 1.jpg */; };
+		A79262651CD8578E0050CA38 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262571CD8578E0050CA38 /* 2.jpg */; };
+		A79262661CD8578E0050CA38 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262581CD8578E0050CA38 /* 3.jpg */; };
+		A79262671CD8578E0050CA38 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262591CD8578E0050CA38 /* 4.jpg */; };
+		A79262681CD8578E0050CA38 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625A1CD8578E0050CA38 /* 5.jpg */; };
+		A79262691CD8578E0050CA38 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625B1CD8578E0050CA38 /* 6.jpg */; };
+		A792626A1CD8578E0050CA38 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625C1CD8578E0050CA38 /* 7.jpg */; };
+		A792626B1CD8578E0050CA38 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625D1CD8578E0050CA38 /* 8.jpg */; };
+		A792626C1CD8578E0050CA38 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625E1CD8578E0050CA38 /* 9.jpg */; };
+		A792626D1CD8578E0050CA38 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792625F1CD8578E0050CA38 /* 10.jpg */; };
+		A792626E1CD8578E0050CA38 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262601CD8578E0050CA38 /* 11.jpg */; };
+		A792626F1CD8578E0050CA38 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262611CD8578E0050CA38 /* 12.jpg */; };
+		A79262871CD858070050CA38 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262801CD858070050CA38 /* 0.jpg */; };
+		A79262881CD858070050CA38 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262811CD858070050CA38 /* 15.jpg */; };
+		A79262891CD858070050CA38 /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262821CD858070050CA38 /* 16.jpg */; };
+		A792628A1CD858070050CA38 /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262831CD858070050CA38 /* 17.jpg */; };
+		A792628B1CD858070050CA38 /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262841CD858070050CA38 /* 18.jpg */; };
+		A792628C1CD858070050CA38 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262851CD858070050CA38 /* 13.jpg */; };
+		A792628D1CD858070050CA38 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A79262861CD858070050CA38 /* 14.jpg */; };
+		A792628F1CD858DF0050CA38 /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A792628E1CD858DF0050CA38 /* 19.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +95,8 @@
 		A511A7751CBB466100EB0083 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A511A7771CBB466100EB0083 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A511A7781CBB466100EB0083 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A511A77A1CBB466100EB0083 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A511A77B1CBB466100EB0083 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A511A77A1CBB466100EB0083 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = "自定义播放器/ViewController.h"; sourceTree = "<group>"; };
+		A511A77B1CBB466100EB0083 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = "自定义播放器/ViewController.m"; sourceTree = "<group>"; };
 		A511A77E1CBB466100EB0083 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A511A7801CBB466100EB0083 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A511A7831CBB466100EB0083 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +107,65 @@
 		A511A7951CBB466100EB0083 /* 自定义播放器UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "自定义播放器UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A511A7991CBB466100EB0083 /* ______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "______UITests.m"; sourceTree = "<group>"; };
 		A511A79B1CBB466100EB0083 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A511A7A71CBB46EA00EB0083 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		A511A7A91CBB46F300EB0083 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		A531CC491CCF14680017908A /* jie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jie.jpg; sourceTree = "<group>"; };
+		A531CC4B1CCF17060017908A /* ListTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ListTableViewController.h; path = "自定义播放器/ListTableViewController.h"; sourceTree = "<group>"; };
+		A531CC4C1CCF17060017908A /* ListTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ListTableViewController.m; path = "自定义播放器/ListTableViewController.m"; sourceTree = "<group>"; };
+		A531CC7E1CCF1D6C0017908A /* Effect48.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Effect48.wav; sourceTree = "<group>"; };
+		A531CC7F1CCF1D6C0017908A /* Effect49.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Effect49.wav; sourceTree = "<group>"; };
+		A531CC801CCF1D6C0017908A /* Effect50.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Effect50.wav; sourceTree = "<group>"; };
+		A531CCB31CCF466C0017908A /* MusicInfoDelegete.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MusicInfoDelegete.h; path = "自定义播放器/MusicInfoDelegete.h"; sourceTree = "<group>"; };
+		A531CCB51CCF4B3B0017908A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		A55813AB1CD0B98A00520A82 /* btnPlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = btnPlay.png; path = "自定义播放器/btnPlay.png"; sourceTree = "<group>"; };
+		A55813AC1CD0B98A00520A82 /* btnPause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = btnPause.png; path = "自定义播放器/btnPause.png"; sourceTree = "<group>"; };
+		A5A9E9B31CBC78E700622BE4 /* sliderThumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sliderThumb.png; path = "自定义播放器/sliderThumb.png"; sourceTree = "<group>"; };
+		A5E18DF31CE166B90000EB21 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		A5E18DF41CE166B90000EB21 /* last.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = last.png; sourceTree = "<group>"; };
+		A5E18DFE1CE174560000EB21 /* bgp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bgp.jpg; sourceTree = "<group>"; };
+		A5E18E001CE174940000EB21 /* bglist.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bglist.jpg; sourceTree = "<group>"; };
+		A5E18E061CE1787E0000EB21 /* spl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spl.jpg; sourceTree = "<group>"; };
+		A79262011CD8305A0050CA38 /* thumbImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbImg.png; sourceTree = "<group>"; };
+		A79262031CD8480D0050CA38 /* 陈奕迅-浮夸.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "陈奕迅-浮夸.mp3"; sourceTree = "<group>"; };
+		A79262041CD8480D0050CA38 /* 单色凌,何艺纱-错位节拍.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "单色凌,何艺纱-错位节拍.mp3"; sourceTree = "<group>"; };
+		A79262051CD8480D0050CA38 /* 格子兮,牙牙乐-时间爱人.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "格子兮,牙牙乐-时间爱人.mp3"; sourceTree = "<group>"; };
+		A79262061CD8480D0050CA38 /* 姜宇清-给我一支烟.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "姜宇清-给我一支烟.mp3"; sourceTree = "<group>"; };
+		A79262071CD8480D0050CA38 /* 可歆-怎么能够.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "可歆-怎么能够.mp3"; sourceTree = "<group>"; };
+		A79262081CD8480D0050CA38 /* 林俊杰-美人鱼.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "林俊杰-美人鱼.mp3"; sourceTree = "<group>"; };
+		A79262091CD8480D0050CA38 /* 蒙面哥-一生一世好兄弟.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "蒙面哥-一生一世好兄弟.mp3"; sourceTree = "<group>"; };
+		A792620A1CD8480D0050CA38 /* 梦然-北京烟火.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "梦然-北京烟火.mp3"; sourceTree = "<group>"; };
+		A792620B1CD8480D0050CA38 /* 梦然-假如.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "梦然-假如.mp3"; sourceTree = "<group>"; };
+		A792620C1CD8480D0050CA38 /* 梦然-没有你陪伴真的好孤单.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "梦然-没有你陪伴真的好孤单.mp3"; sourceTree = "<group>"; };
+		A792620D1CD8480D0050CA38 /* 少司命-摆渡.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "少司命-摆渡.mp3"; sourceTree = "<group>"; };
+		A792620E1CD8480D0050CA38 /* 孙子涵-毕业后你不是我的.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "孙子涵-毕业后你不是我的.mp3"; sourceTree = "<group>"; };
+		A792620F1CD8480D0050CA38 /* 孙子涵-连借口都没有.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "孙子涵-连借口都没有.mp3"; sourceTree = "<group>"; };
+		A79262101CD8480D0050CA38 /* 孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3"; sourceTree = "<group>"; };
+		A79262111CD8480D0050CA38 /* 夏天Alex-我依然想你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "夏天Alex-我依然想你.mp3"; sourceTree = "<group>"; };
+		A79262121CD8480D0050CA38 /* 徐良-听妈妈的话 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "徐良-听妈妈的话 (Live).mp3"; sourceTree = "<group>"; };
+		A79262131CD8480D0050CA38 /* 徐良,吴昕-星座恋人.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "徐良,吴昕-星座恋人.mp3"; sourceTree = "<group>"; };
+		A79262141CD8480D0050CA38 /* 许嵩-灰色头像.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "许嵩-灰色头像.mp3"; sourceTree = "<group>"; };
+		A79262151CD8480D0050CA38 /* 许嵩-星座书上.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "许嵩-星座书上.mp3"; sourceTree = "<group>"; };
+		A79262161CD8480D0050CA38 /* 许嵩-有何不可.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "许嵩-有何不可.mp3"; sourceTree = "<group>"; };
+		A79262561CD8578E0050CA38 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		A79262571CD8578E0050CA38 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		A79262581CD8578E0050CA38 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		A79262591CD8578E0050CA38 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		A792625A1CD8578E0050CA38 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		A792625B1CD8578E0050CA38 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		A792625C1CD8578E0050CA38 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		A792625D1CD8578E0050CA38 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		A792625E1CD8578E0050CA38 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		A792625F1CD8578E0050CA38 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		A79262601CD8578E0050CA38 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		A79262611CD8578E0050CA38 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		A79262801CD858070050CA38 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		A79262811CD858070050CA38 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		A79262821CD858070050CA38 /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		A79262831CD858070050CA38 /* 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpg; sourceTree = "<group>"; };
+		A79262841CD858070050CA38 /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
+		A79262851CD858070050CA38 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		A79262861CD858070050CA38 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		A792628E1CD858DF0050CA38 /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +173,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A511A7AA1CBB46F300EB0083 /* AVKit.framework in Frameworks */,
+				A511A7A81CBB46EA00EB0083 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +198,13 @@
 		A511A7681CBB466100EB0083 = {
 			isa = PBXGroup;
 			children = (
+				A5E18DF91CE167DC0000EB21 /* view */,
+				A5E18DF81CE167AC0000EB21 /* controller */,
+				A5E18DF71CE167980000EB21 /* protocol */,
+				A531CC4E1CCF1CE00017908A /* music */,
+				A531CC481CCF14530017908A /* imgs */,
+				A511A7A91CBB46F300EB0083 /* AVKit.framework */,
+				A511A7A71CBB46EA00EB0083 /* AVFoundation.framework */,
 				A511A7731CBB466100EB0083 /* 自定义播放器 */,
 				A511A78D1CBB466100EB0083 /* 自定义播放器Tests */,
 				A511A7981CBB466100EB0083 /* 自定义播放器UITests */,
@@ -103,9 +227,6 @@
 			children = (
 				A511A7771CBB466100EB0083 /* AppDelegate.h */,
 				A511A7781CBB466100EB0083 /* AppDelegate.m */,
-				A511A77A1CBB466100EB0083 /* ViewController.h */,
-				A511A77B1CBB466100EB0083 /* ViewController.m */,
-				A511A77D1CBB466100EB0083 /* Main.storyboard */,
 				A511A7801CBB466100EB0083 /* Assets.xcassets */,
 				A511A7821CBB466100EB0083 /* LaunchScreen.storyboard */,
 				A511A7851CBB466100EB0083 /* Info.plist */,
@@ -138,6 +259,108 @@
 				A511A79B1CBB466100EB0083 /* Info.plist */,
 			);
 			path = "自定义播放器UITests";
+			sourceTree = "<group>";
+		};
+		A531CC481CCF14530017908A /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				A5E18E001CE174940000EB21 /* bglist.jpg */,
+				A5E18E061CE1787E0000EB21 /* spl.jpg */,
+				A5E18DF31CE166B90000EB21 /* next.png */,
+				A5E18DF41CE166B90000EB21 /* last.png */,
+				A5A9E9B31CBC78E700622BE4 /* sliderThumb.png */,
+				A5E18DFE1CE174560000EB21 /* bgp.jpg */,
+				A55813AB1CD0B98A00520A82 /* btnPlay.png */,
+				A55813AC1CD0B98A00520A82 /* btnPause.png */,
+				A79262011CD8305A0050CA38 /* thumbImg.png */,
+				A531CC491CCF14680017908A /* jie.jpg */,
+			);
+			name = imgs;
+			sourceTree = "<group>";
+		};
+		A531CC4E1CCF1CE00017908A /* music */ = {
+			isa = PBXGroup;
+			children = (
+				A792622B1CD84E040050CA38 /* imgs */,
+				A79262561CD8578E0050CA38 /* 1.jpg */,
+				A79262571CD8578E0050CA38 /* 2.jpg */,
+				A79262581CD8578E0050CA38 /* 3.jpg */,
+				A79262591CD8578E0050CA38 /* 4.jpg */,
+				A792625A1CD8578E0050CA38 /* 5.jpg */,
+				A792625B1CD8578E0050CA38 /* 6.jpg */,
+				A792625C1CD8578E0050CA38 /* 7.jpg */,
+				A792625D1CD8578E0050CA38 /* 8.jpg */,
+				A792625E1CD8578E0050CA38 /* 9.jpg */,
+				A792625F1CD8578E0050CA38 /* 10.jpg */,
+				A79262601CD8578E0050CA38 /* 11.jpg */,
+				A79262611CD8578E0050CA38 /* 12.jpg */,
+				A79262031CD8480D0050CA38 /* 陈奕迅-浮夸.mp3 */,
+				A79262041CD8480D0050CA38 /* 单色凌,何艺纱-错位节拍.mp3 */,
+				A79262051CD8480D0050CA38 /* 格子兮,牙牙乐-时间爱人.mp3 */,
+				A79262061CD8480D0050CA38 /* 姜宇清-给我一支烟.mp3 */,
+				A79262071CD8480D0050CA38 /* 可歆-怎么能够.mp3 */,
+				A79262081CD8480D0050CA38 /* 林俊杰-美人鱼.mp3 */,
+				A79262091CD8480D0050CA38 /* 蒙面哥-一生一世好兄弟.mp3 */,
+				A792620A1CD8480D0050CA38 /* 梦然-北京烟火.mp3 */,
+				A792620B1CD8480D0050CA38 /* 梦然-假如.mp3 */,
+				A792620C1CD8480D0050CA38 /* 梦然-没有你陪伴真的好孤单.mp3 */,
+				A792620D1CD8480D0050CA38 /* 少司命-摆渡.mp3 */,
+				A792620E1CD8480D0050CA38 /* 孙子涵-毕业后你不是我的.mp3 */,
+				A792620F1CD8480D0050CA38 /* 孙子涵-连借口都没有.mp3 */,
+				A79262101CD8480D0050CA38 /* 孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3 */,
+				A79262111CD8480D0050CA38 /* 夏天Alex-我依然想你.mp3 */,
+				A79262121CD8480D0050CA38 /* 徐良-听妈妈的话 (Live).mp3 */,
+				A79262131CD8480D0050CA38 /* 徐良,吴昕-星座恋人.mp3 */,
+				A79262141CD8480D0050CA38 /* 许嵩-灰色头像.mp3 */,
+				A79262151CD8480D0050CA38 /* 许嵩-星座书上.mp3 */,
+				A79262161CD8480D0050CA38 /* 许嵩-有何不可.mp3 */,
+				A531CC7E1CCF1D6C0017908A /* Effect48.wav */,
+				A531CC7F1CCF1D6C0017908A /* Effect49.wav */,
+				A531CC801CCF1D6C0017908A /* Effect50.wav */,
+			);
+			name = music;
+			sourceTree = "<group>";
+		};
+		A5E18DF71CE167980000EB21 /* protocol */ = {
+			isa = PBXGroup;
+			children = (
+				A531CCB31CCF466C0017908A /* MusicInfoDelegete.h */,
+			);
+			name = protocol;
+			sourceTree = "<group>";
+		};
+		A5E18DF81CE167AC0000EB21 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				A531CC4B1CCF17060017908A /* ListTableViewController.h */,
+				A531CC4C1CCF17060017908A /* ListTableViewController.m */,
+				A511A77A1CBB466100EB0083 /* ViewController.h */,
+				A511A77B1CBB466100EB0083 /* ViewController.m */,
+			);
+			name = controller;
+			sourceTree = "<group>";
+		};
+		A5E18DF91CE167DC0000EB21 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				A511A77D1CBB466100EB0083 /* Main.storyboard */,
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		A792622B1CD84E040050CA38 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				A79262801CD858070050CA38 /* 0.jpg */,
+				A792628E1CD858DF0050CA38 /* 19.jpg */,
+				A79262811CD858070050CA38 /* 15.jpg */,
+				A79262821CD858070050CA38 /* 16.jpg */,
+				A79262831CD858070050CA38 /* 17.jpg */,
+				A79262841CD858070050CA38 /* 18.jpg */,
+				A79262851CD858070050CA38 /* 13.jpg */,
+				A79262861CD858070050CA38 /* 14.jpg */,
+			);
+			path = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,8 +467,61 @@
 			buildActionMask = 2147483647;
 			files = (
 				A511A7841CBB466100EB0083 /* LaunchScreen.storyboard in Resources */,
+				A792621F1CD8480D0050CA38 /* 梦然-假如.mp3 in Resources */,
+				A79262171CD8480D0050CA38 /* 陈奕迅-浮夸.mp3 in Resources */,
+				A5E18DF51CE166B90000EB21 /* next.png in Resources */,
+				A531CCB21CCF1D6C0017908A /* Effect50.wav in Resources */,
+				A531CCB11CCF1D6C0017908A /* Effect49.wav in Resources */,
+				A792626B1CD8578E0050CA38 /* 8.jpg in Resources */,
+				A79262671CD8578E0050CA38 /* 4.jpg in Resources */,
+				A79262291CD8480D0050CA38 /* 许嵩-星座书上.mp3 in Resources */,
+				A79262251CD8480D0050CA38 /* 夏天Alex-我依然想你.mp3 in Resources */,
+				A79262021CD8305A0050CA38 /* thumbImg.png in Resources */,
+				A792621C1CD8480D0050CA38 /* 林俊杰-美人鱼.mp3 in Resources */,
+				A792628A1CD858070050CA38 /* 17.jpg in Resources */,
+				A79262241CD8480D0050CA38 /* 孙子涵-唐人 (《唐朝好男人》电视剧主题曲).mp3 in Resources */,
+				A792626D1CD8578E0050CA38 /* 10.jpg in Resources */,
+				A792621B1CD8480D0050CA38 /* 可歆-怎么能够.mp3 in Resources */,
+				A792628B1CD858070050CA38 /* 18.jpg in Resources */,
+				A55813AD1CD0B98A00520A82 /* btnPlay.png in Resources */,
+				A5A9E9B41CBC78E700622BE4 /* sliderThumb.png in Resources */,
+				A792622A1CD8480D0050CA38 /* 许嵩-有何不可.mp3 in Resources */,
+				A792626C1CD8578E0050CA38 /* 9.jpg in Resources */,
+				A5E18E071CE1787E0000EB21 /* spl.jpg in Resources */,
+				A79262271CD8480D0050CA38 /* 徐良,吴昕-星座恋人.mp3 in Resources */,
 				A511A7811CBB466100EB0083 /* Assets.xcassets in Resources */,
+				A792621E1CD8480D0050CA38 /* 梦然-北京烟火.mp3 in Resources */,
+				A79262661CD8578E0050CA38 /* 3.jpg in Resources */,
+				A79262881CD858070050CA38 /* 15.jpg in Resources */,
+				A55813AE1CD0B98A00520A82 /* btnPause.png in Resources */,
+				A792626F1CD8578E0050CA38 /* 12.jpg in Resources */,
+				A5E18DF61CE166B90000EB21 /* last.png in Resources */,
+				A792626A1CD8578E0050CA38 /* 7.jpg in Resources */,
+				A792628F1CD858DF0050CA38 /* 19.jpg in Resources */,
+				A5E18DFF1CE174560000EB21 /* bgp.jpg in Resources */,
+				A792628C1CD858070050CA38 /* 13.jpg in Resources */,
+				A79262211CD8480D0050CA38 /* 少司命-摆渡.mp3 in Resources */,
+				A531CC4A1CCF14680017908A /* jie.jpg in Resources */,
+				A79262891CD858070050CA38 /* 16.jpg in Resources */,
+				A5E18E011CE174940000EB21 /* bglist.jpg in Resources */,
+				A792628D1CD858070050CA38 /* 14.jpg in Resources */,
+				A79262201CD8480D0050CA38 /* 梦然-没有你陪伴真的好孤单.mp3 in Resources */,
+				A792626E1CD8578E0050CA38 /* 11.jpg in Resources */,
+				A531CCB01CCF1D6C0017908A /* Effect48.wav in Resources */,
+				A79262191CD8480D0050CA38 /* 格子兮,牙牙乐-时间爱人.mp3 in Resources */,
 				A511A77F1CBB466100EB0083 /* Main.storyboard in Resources */,
+				A792621D1CD8480D0050CA38 /* 蒙面哥-一生一世好兄弟.mp3 in Resources */,
+				A792621A1CD8480D0050CA38 /* 姜宇清-给我一支烟.mp3 in Resources */,
+				A79262871CD858070050CA38 /* 0.jpg in Resources */,
+				A79262231CD8480D0050CA38 /* 孙子涵-连借口都没有.mp3 in Resources */,
+				A79262651CD8578E0050CA38 /* 2.jpg in Resources */,
+				A79262681CD8578E0050CA38 /* 5.jpg in Resources */,
+				A79262691CD8578E0050CA38 /* 6.jpg in Resources */,
+				A79262281CD8480D0050CA38 /* 许嵩-灰色头像.mp3 in Resources */,
+				A79262261CD8480D0050CA38 /* 徐良-听妈妈的话 (Live).mp3 in Resources */,
+				A79262181CD8480D0050CA38 /* 单色凌,何艺纱-错位节拍.mp3 in Resources */,
+				A79262221CD8480D0050CA38 /* 孙子涵-毕业后你不是我的.mp3 in Resources */,
+				A79262641CD8578E0050CA38 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +549,7 @@
 				A511A77C1CBB466100EB0083 /* ViewController.m in Sources */,
 				A511A7791CBB466100EB0083 /* AppDelegate.m in Sources */,
 				A511A7761CBB466100EB0083 /* main.m in Sources */,
+				A531CC4D1CCF17060017908A /* ListTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,8 +589,10 @@
 			isa = PBXVariantGroup;
 			children = (
 				A511A77E1CBB466100EB0083 /* Base */,
+				A531CCB51CCF4B3B0017908A /* en */,
 			);
 			name = Main.storyboard;
+			path = "自定义播放器";
 			sourceTree = "<group>";
 		};
 		A511A7821CBB466100EB0083 /* LaunchScreen.storyboard */ = {
@@ -412,6 +691,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "自定义播放器/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "------.------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -423,6 +703,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "自定义播放器/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "------.------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +777,7 @@
 				A511A7A01CBB466100EB0083 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A511A7A11CBB466100EB0083 /* Build configuration list for PBXNativeTarget "自定义播放器Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +786,7 @@
 				A511A7A31CBB466100EB0083 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A511A7A41CBB466100EB0083 /* Build configuration list for PBXNativeTarget "自定义播放器UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +795,7 @@
 				A511A7A61CBB466100EB0083 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

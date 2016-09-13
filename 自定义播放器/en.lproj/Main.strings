@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "play"; ObjectID = "97h-uh-WdI"; */
+"97h-uh-WdI.normalTitle" = "play";
+
+/* Class = "UILabel"; text = "歌曲名"; ObjectID = "A0E-I9-kI3"; */
+"A0E-I9-kI3.text" = "歌曲名";
+
+/* Class = "UINavigationItem"; title = "歌曲列表"; ObjectID = "NEk-lr-LCD"; */
+"NEk-lr-LCD.title" = "歌曲列表";
+
+/* Class = "UINavigationItem"; title = "歌曲"; ObjectID = "bbC-C0-ZRe"; */
+"bbC-C0-ZRe.title" = "歌曲";
